@@ -2,6 +2,6 @@
 
 Sample::Sample()
 {
-	classId = "学籍番号";
-	name = "ダミー";
+	classId = "学籍番号:2595GP0003";
+	name = "板垣璃輝";
 }
